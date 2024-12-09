@@ -1,8 +1,8 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP <GROUP-5>
 
-- Member 1: <add-name>
+- Member 1: <DAO-DUC-ANH>
 - Member 2: <add-name>
 - Member 3: <add-name>
 - Member 4: <add-name>
