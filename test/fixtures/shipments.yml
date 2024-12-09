@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shippingID: 1
+  order: one
+  shippingDate: 2024-12-09 10:20:54
+  adress: MyString
+  status: MyString
+  staff: one
+
+two:
+  shippingID: 1
+  order: two
+  shippingDate: 2024-12-09 10:20:54
+  adress: MyString
+  status: MyString
+  staff: two
